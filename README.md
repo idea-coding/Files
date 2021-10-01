@@ -1,7 +1,7 @@
 # Files
   An android open source file manager with new features helpfull for developers using android
 ## Download
-  <a href='ijavac.github.io/apks/Files/latest.apk'>Download from our official url</a>
+  <a href='http://ijavac.github.io/apks/Files/latest.apk'>Download from our official url</a>
 ### Updates
    Check this repo to see updates
 ## Features
