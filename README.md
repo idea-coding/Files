@@ -2,6 +2,8 @@
   An android open source file manager with new features helpfull for developers using android
 ## Download
   <a href='https://github.com/idea-coding/Files/releases/download/v1.1/Files-1.1.apk'><button>Download</button></a> v1.1
+### Website
+  <a href="https://ijavac.github.io/apks/Files">ijavac.github.io</a>
 ### Updates
    Check this repo to see updates
 ## Features
